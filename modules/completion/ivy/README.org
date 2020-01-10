@@ -164,7 +164,7 @@ A wgrep buffer can be opened from swiper with =C-c C-e=.
 | =M-x=, =SPC := | Smarter, smex-powered M-x |
 | =SPC '=        | Resume last ivy session   |
 
-*** Jump to files, buffers or projects)
+*** Jump to files, buffers or projects
 | Keybind              | Description                           |
 |----------------------+---------------------------------------|
 | =SPC RET=            | Find bookmark                         |
